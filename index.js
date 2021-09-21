@@ -1,5 +1,7 @@
 // Aula 16 - Arrow function, Callback e Javadoc
 
+// 1. Arrow Function 
+
 var ArrowFunction = require('./modulos/arrow-function');
 var Callback = require('./modulos/callback');
 
@@ -8,6 +10,8 @@ console.log('Um parametro:', ArrowFunction.temIdadeParaBeber(17));
 console.log('Sem parametro:', ArrowFunction.pegarUmValorAleatorio());
 
 console.log('------------------------');
+
+// 2. Callback
 
 console.log('Callback');
 
