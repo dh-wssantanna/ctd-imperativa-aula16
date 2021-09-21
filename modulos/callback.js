@@ -6,6 +6,7 @@
     - Documentação de códigos.
 */
 
+// 3. JavaDoc
 /**
  * Calcula múltiplos valores conforme a função de callback.
  * 
