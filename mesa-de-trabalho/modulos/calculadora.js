@@ -5,6 +5,11 @@ function Calculadora() {
   
     var valorAcumulado = 0;
     
+
+  this.zeraCalculadora= function(){
+    valorAcumulado = 0;
+  }
+
     /**
      * Calcula múltiplos valores conforme a função de callback.
      * 
